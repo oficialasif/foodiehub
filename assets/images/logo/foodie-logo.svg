@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" version="1.1" viewBox="0 0 135.47 135.47" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(0 -161.53)" fill="#ff4757">
+    <!-- Fork -->
+    <g transform="translate(-5,0)">
+      <rect x="45" y="191.53" width="4" height="65" rx="2"/>
+      <rect x="55" y="191.53" width="4" height="65" rx="2"/>
+      <rect x="65" y="191.53" width="4" height="65" rx="2"/>
+      <rect x="40" y="186.53" width="34" height="6" rx="3"/>
+      <path d="m40 246.53h34v10c0 2.77-2.23 5-5 5h-24c-2.77 0-5-2.23-5-5z"/>
+    </g>
+    
+    <!-- Spoon -->
+    <g transform="translate(15,0)">
+      <rect x="75" y="191.53" width="4" height="65" rx="2"/>
+      <ellipse cx="77" cy="186.53" rx="15" ry="10"/>
+    </g>
+  </g>
+</svg>

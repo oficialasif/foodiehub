@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="600px" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <!-- Delivery Vehicle -->
+        <rect x="300" y="250" width="300" height="200" rx="30" fill="#FF4757"/>
+        <rect x="550" y="300" width="100" height="150" fill="#FFE0E3"/>
+        <!-- Wheels -->
+        <circle cx="350" cy="450" r="50" fill="#2F3542"/>
+        <circle cx="600" cy="450" r="50" fill="#2F3542"/>
+        <!-- Speed Lines -->
+        <path d="M200,300 L250,300" stroke="#747D8C" stroke-width="10" stroke-linecap="round"/>
+        <path d="M150,350 L220,350" stroke="#747D8C" stroke-width="10" stroke-linecap="round"/>
+        <path d="M100,400 L200,400" stroke="#747D8C" stroke-width="10" stroke-linecap="round"/>
+        <!-- Timer -->
+        <circle cx="150" cy="150" r="70" fill="#FFFFFF" stroke="#FF4757" stroke-width="10"/>
+        <path d="M150,100 L150,150 L200,150" stroke="#FF4757" stroke-width="8" stroke-linecap="round"/>
+    </g>
+</svg>

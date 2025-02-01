@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="600px" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <!-- Delivery Person -->
+        <g transform="translate(400, 300)">
+            <circle fill="#FF4757" cx="0" cy="0" r="150"/>
+            <path d="M-50,-50 C-30,-70 30,-70 50,-50 L0,0 Z" fill="#2F3542"/>
+            <circle fill="#FFFFFF" cx="-25" cy="-30" r="10"/>
+            <circle fill="#FFFFFF" cx="25" cy="-30" r="10"/>
+            <path d="M-30,0 C-20,20 20,20 30,0" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+        </g>
+        <!-- Food Box -->
+        <rect x="100" y="200" width="200" height="150" rx="20" fill="#FFE0E3"/>
+        <rect x="120" y="220" width="160" height="110" rx="10" fill="#FF4757"/>
+        <!-- Scooter -->
+        <path d="M500,400 C600,400 650,450 700,500" stroke="#2F3542" stroke-width="5" fill="none"/>
+        <circle cx="500" cy="500" r="40" fill="#747D8C"/>
+        <circle cx="700" cy="500" r="40" fill="#747D8C"/>
+    </g>
+</svg>
